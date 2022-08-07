@@ -2,7 +2,6 @@
 import peasy.*;
 PeasyCam cam;
 
-
 //VARIABLES
 int num = 0;
 float r, g, b;
